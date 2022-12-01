@@ -1,0 +1,1 @@
+if game.Players.LocalPlayer.UserId == 1397173010 then print("Whitelisted!") else print("Not Whitelisted") end
